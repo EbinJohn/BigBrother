@@ -18,3 +18,5 @@ Snoopy.exe -c ..\\..\\src\\ExampleApp\\exampleapp.config.json -e ..\\..\\src\\Ex
 Help
 ----
 Snoopy.exe -h to see help.
+
+Test changes
